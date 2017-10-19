@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAK;EACH,IAAI,EAAE,2BAAqB;EAC3B,KAAK,EAJS,OAAO",
+"sources": ["../precss/common.scss"],
+"names": [],
+"file": "common.css"
+}
